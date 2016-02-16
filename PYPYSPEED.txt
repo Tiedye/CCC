@@ -1,0 +1,4 @@
+Slower on PyPy:
+2012S4
+Way faster on PyPy:
+2010S5 (calc section)
